@@ -99,7 +99,7 @@
     "date-fns": "^2.16.1",
     "electron-context-menu": "^2.0.1",
     "electron-squirrel-startup": "^1.0.0",
-    "electron-store": "^5.2.0",
+    "electron-store": "^8.0.0",
     "electron-updater": "^4.3.4",
     "formik": "^2.1.4",
     "lodash-es": "^4.17.15",
