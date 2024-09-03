@@ -100,7 +100,7 @@
     "electron-context-menu": "^2.0.1",
     "electron-squirrel-startup": "^1.0.0",
     "electron-store": "^5.2.0",
-    "electron-updater": "^4.3.4",
+    "electron-updater": "^6.3.0",
     "formik": "^2.1.4",
     "lodash-es": "^4.17.15",
     "mdi-react": "^7.3.0",
